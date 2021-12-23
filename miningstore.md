@@ -1,4 +1,3 @@
-## Please copy this template.md, do not edit the template directly
 ## MiningStore
 
 Application to become an approved third party manufacturer as per HIP19. 
